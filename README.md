@@ -12,9 +12,9 @@ Our objective is to leverage data analytics and predictive modeling to identify 
 
 ## Repository Contents
 - **Jupyter Notebook:** Explore the heart of our analysis.
-  - [Altaf - Retail Giant Sales Forecasting Assignment Notebook.ipynb](Altaf%20-%20Retail%20Giant%20Sales%20Forecasting%20Assignment%20Notebook.ipynb): In-depth notebook detailing our data analysis and forecasting.
+  - [Retail Giant Sales Forecasting Assignment Notebook.ipynb](Altaf%20-%20Retail%20Giant%20Sales%20Forecasting%20Assignment%20Notebook.ipynb): In-depth notebook detailing our data analysis and forecasting.
 - **Presentation:** Visualize our findings and recommendations.
-  - [Altaf- Retail Forecast Assignment.pptx](Altaf-%20Retail%20Forecast%20Assignment.pptx): Presentation providing insights and strategies.
+  - [Retail Forecast Assignment.pptx](Altaf-%20Retail%20Forecast%20Assignment.pptx): Presentation providing insights and strategies.
 - **Data Source:** The key to predictive excellence.
   - [Global+Superstore+Data.csv](Global%2BSuperstore%2BData.csv): Dataset containing essential retail data.
 
